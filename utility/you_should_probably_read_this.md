@@ -1,8 +1,8 @@
 🐾 **Cat-Paw Disclaimer!** 🐾
 
-Meow-coder alert! 😺 Welcome to my Python playground, where scripts are as much a work-in-progress as training my cat to not steal my vegan cheese (spoiler alert: it's not going well).
+Meow-coder alert! 😺 Welcome to my Python playground, where scripts are as much a work-in-progress as training my cats to not steal my vegan cheese (spoiler alert: it's not going well).
 
-🚀 **Embarking on a Python Expedition with My Cat Sidekick** 🚀
+🚀 **Embarking on a Python Expedition with My Cat Sidekicks** 🚀
 
 Consider this repo a virtual scratching post for my coding adventures. Python is the language, and I'm the cat, occasionally getting tangled in my own tail – but that's half the fun!
 
