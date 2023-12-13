@@ -1,6 +1,6 @@
 🐾 **Cat-Paw Disclaimer!** 🐾
 
-Meow-coder alert! 😺 Welcome to my Python playground, where scripts are as much a work-in-progress as training my cat to not steal my vegan cheese (spoiler alert: it's not going well).
+Meow-coder alert! 😺 Welcome to my Python playground, where scripts are as much a work-in-progress as training my cats to not steal my vegan cheese (spoiler alert: it's not going well).
 
 🚀 **Embarking on a Python Expedition with My Cat Sidekicks** 🚀
 
