@@ -43,11 +43,15 @@ pip install --upgrade tqdm
 ---
 
 ## Notes from the Creator
-- Using high values of samples to pick from, and large sample libraries will slow down the cooking of your soup! Please wait patiently until the prompt Chef tells you the soup is cooked.
+- Using high values for the sample picker prompt, and large sample libraries will slow down the cooking of your soup! Please wait patiently until the prompt Chef tells you the soup is cooked.
+- If the Sample Library contains numerous subfolders and non-audio files, or unsupported files, the progress bar might frequently pause and resume. But fear not, the line cook will let you know when your soup is ready!
 - Best practice is to use  smaller folders containing samples, rather than letting the script rummage through the root folder of your sample library.
+- The script only processes stereo files, and it assumes that the audio files are in WAV format.
+    - Folders with just Mono files inside will most likely output an empty audio file, or one that might sound corrupted (which would be a win-win!👾).
+    - Plans for a separate script to process mono files, like one-shots, are in the pipeline, but it's still a work-in-progress.
 - On occasion, the script might churn out massive and lengthy files, typically when there are extensive audio files in a folder, such as field recordings, stems, or complete songs.
     - There isn't a failsafe for extremely long audio files because, on occasion, they can yield particularly fascinating results. Processing lengthy (field) recordings could take as much as 45 minutes, but the potential for unique outcomes makes it worthwhile.
-    - There's also no proper conversion for audio files above 44.1 kHz; however, this will lead to intriguing outcomes for your audio soup. Yes, voices may sound like smurfs, but hey, embrace the chaos!
+    - There's also no proper conversion for audio files above 44.1 kHz; however, this will lead to intriguing outcomes for your audio soup. Yes, voices may sound like smurfs, but hey, embrace the chaos!   
 - *Support?* 🥳 Nope, none available. The script is what it is.
 
 ## Author
